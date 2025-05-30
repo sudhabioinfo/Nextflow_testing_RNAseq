@@ -1,0 +1,11 @@
+# Download the demo dataset 
+# https://drive.google.com/file/d/1DGHjbhcRy_zTm6H9C_AUpkzBML-JhtA3/view 
+
+# Download genome indices for HISAT2
+# wget https://genome-idx.s3.amazonaws.com/hisat/grch38_genome.tar.gz
+
+# Download Genome annotation file for Humans
+# wget http://ftp.ensembl.org/pub/release-106/gtf/homo_sapiens/Homo_sapiens.GRCh38.106.gtf.gz
+
+# Credits - YT - Bioinformagician https://www.youtube.com/watch?v=lG11JjovJHE&t=1352s&ab_channel=Bioinformagician
+
